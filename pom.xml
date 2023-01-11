@@ -105,7 +105,8 @@
                     <target>1.8</target>
                 </configuration>
            
-        </plugins>
+        </plugins>    
+             </plugins>
     </build>
     <!-- End configuration -->
 </project>
